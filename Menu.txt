@@ -1,0 +1,29 @@
+Pizza, Entree, 6.99
+Burger, Entree, 7.99
+Steak, Entree, 20.00
+Spaghetti, Entree, 12.00
+Salad, Entree, 15.00
+Hot Dog, Entree, 4.00
+Mac n Cheese with pork, Entree, 9.00
+Grilled Cheese, Entree, 5.00
+Chicken Sandwich, Entree, 6.99
+Sushi, Entree, 9.00
+French Fries, Side, 1.99
+Side Salad, Side, 2.99
+Apple Sauce, Side, 1.00
+Grilled vegetables, Side, 4.00
+Sweet potato fries, Side, 2.99
+Baked Potato, Side, 5.00
+Fresh Fruit, Side, 3.50
+Mac n Cheese, Side, 4.00
+Onion Rings, Side, 3.50
+Mashed Potatoes, Side, 4.25
+Fruit salad, Side, 4.00
+Pasta salad, Side, 1.50
+Milk, Drink, 2.0
+Water, Drink, 0.0
+Lemonade, Drink, 2.0
+Iced Tea, Drink, 2.0
+Coca-cola, Drink, 2.0
+Beer, Drink, 3.0
+Wine, Drink, 5.0
